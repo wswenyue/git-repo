@@ -3,7 +3,7 @@
 ### repo init script install
 
 ```sh
-$ mkdir -p ~/bin && curl http://gitlab.58corp.com/zhangwanxin/git-repo/raw/init/repo > ~/bin/repo &&ln -s ~/bin/repo /usr/local/bin/repo && chmod a+x ~/bin/repo
+$ mkdir -p ~/bin && curl https://raw.githubusercontent.com/wswenyue/git-repo/init/repo > ~/bin/repo &&ln -s ~/bin/repo /usr/local/bin/repo && chmod a+x ~/bin/repo
 ```
 ### remove repo init script 
 ```sh
